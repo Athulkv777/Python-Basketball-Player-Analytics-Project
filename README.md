@@ -13,15 +13,17 @@ Analyze the age distribution to find the most common age group among NBA players
 Identify teams and positions with the highest salary expenditures, showing how investment varies by team strategy.
 5.	Age vs Salary Correlation
 Explore any correlation between player age and salary, with a visualization of this relationship.
+
 Visualizations
-•	Pie Chart: Team distribution percentage split.
-•	Bar Chart: Employee count by position and age distribution.
-•	Scatter Plot: Relationship between age and salary.
-•	Box Plot: Salary distribution by team.
-•	Heatmap: Salary expenditure by team and position.
-•	Top Salaries: Highlighting the top 10 players with the highest salaries.
+1. Pie Chart: Team distribution percentage split.
+2. Bar Chart: Employee count by position and age distribution.
+3. Scatter Plot: Relationship between age and salary.
+4. Box Plot: Salary distribution by team.
+5. Heatmap: Salary expenditure by team and position.
+6. Top Salaries: Highlighting the top 10 players with the highest salaries.
+
 Insights
-•	Team Strategy: Varies across teams, with different strategies for salary distribution.
-•	Player Age and Experience: A concentration in the mid-to-late 20s highlights a critical performance age range.
-•	Position Preference: Emphasis on guard roles underscores the league's current focus on agility and perimeter shooting.
+1. Team Strategy: Varies across teams, with different strategies for salary distribution.
+2. Player Age and Experience: A concentration in the mid-to-late 20s highlights a critical performance age range.
+3. Position Preference: Emphasis on guard roles underscores the league's current focus on agility and perimeter shooting.
 
