@@ -2,7 +2,8 @@
 This project is a Python-based analysis of NBA player data, which examines player demographics, financial investment patterns, and team-building strategies across NBA teams. The data includes player attributes such as name, team, position, age, height, weight, college, and salary.
 Project Overview
 This project uses Python libraries such as Pandas, NumPy, Matplotlib, and Seaborn to preprocess and analyze the NBA dataset. The main insights focus on distribution patterns, correlations, and salary structures to explore how NBA teams invest in their players based on various attributes.
-Key Analyses
+
+# Key Analyses
 1.	Team Employee Distribution
 Analyze the distribution of players across teams and calculate the percentage split of players relative to the total.
 2.	Position Segregation
